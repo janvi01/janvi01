@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m **Janvi Bajoria.**
 - 👩‍🎓 Freshmen at **Indian Institute of Information Technology, Ranchi.**
-- 🔭 I’m currently learning webD.
+- 🔭 I’m currently learning HTML, CSS, JS, C++.
 - 📫 [Github](https://github.com/janvi01) [Twitter](https://twitter.com/janvibajo1)
+- [![Janvi's github stats](https://github-readme-stats.vercel.app/api?username=janvi01)](https://github.com/janvi01/github-readme-stats)
+- ![](https://komarev.com/ghpvc/?username=janvi01)
