@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 👩‍🎓 Freshmen at **Indian Institute of Information Technology, Ranchi.**
 - 🔭 I’m currently learning HTML, CSS, JS, C++.
 - 📫 [Github](https://github.com/janvi01) [Twitter](https://twitter.com/janvibajo1)
-
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janvi01&layout=compact)](https://github.com/janvi01/github-readme-stats)
