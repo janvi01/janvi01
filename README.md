@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m **Janvi Bajoria.**
 - 👩‍🎓 Freshmen at **Indian Institute of Information Technology, Ranchi.**
-- 🔭 I’m currently learning HTML, CSS, JS, C++.
+- 🔭 I’m currently learning Web Development.
 - 📫 [Github](https://github.com/janvi01) [Twitter](https://twitter.com/janvibajo1)
 
