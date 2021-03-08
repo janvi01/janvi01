@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m **Janvi Bajoria.**
 - 👩‍🎓 Freshmen at **Indian Institute of Information Technology, Ranchi.**
 - 🔭 I’m currently learning Web Development.
+- ![Janvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=janvi01&show_icons=true&theme=radical)
