@@ -1,6 +1,4 @@
 ### Hi there, I'm [Janvi!](https://janvi01.github.io) 👋
-<br />
-<br />
 
 <!--
 **janvi01/janvi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +26,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/janvi01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=janvi01&show_icons=true&include_all_commits=true&theme=radical" alt="Janvi's github stats" />
 </a>
+<br />
 <br />
 <a href="https://github.com/janvi01/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
