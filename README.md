@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - 👩‍💻 I’m first year student at IIIT Ranchi.
 - 🌱 I’m currently learning JavaScript and ReactJS.
-- ![](https://komarev.com/ghpvc/?username=janvi01)
 - Connect with me:  <a href="www.linkedin.com/in/janvi01">
   <img align="center" alt="Janvi Bajoria | Linkedin" width="21px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619710413~hmac=e91b57bb4d52240494ea6e040276663a" />
 </a>  <a href="mailto:janvibajo1@gmail.com">
