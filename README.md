@@ -1,4 +1,9 @@
-### Hi there 👋 I am Janvi.
+# Hi there 👋 I am Janvi.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/janvibajo01" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="mailto:janvibajo1@gmail.com" target="blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+</p>
 
 <!--
 **janvi01/janvi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janvi01&theme=radical&layout=compact)](https://github.com/janvi01/github-readme-stats)
+<br/>
+![Janvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=janvi01&theme=radical&show_icons=true)
