@@ -1,6 +1,7 @@
-# Hi there 👋 I am Janvi.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center"> Hi there 👋 I am Janvi.</h1>
+<h3 align="center"> an aspiring developer 👩‍💻</h1>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/janvibajo01" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="mailto:janvibajo1@gmail.com" target="blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
@@ -19,6 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janvi01&theme=radical&layout=compact)](https://github.com/janvi01/github-readme-stats)
-<br/>
-![Janvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=janvi01&theme=radical&show_icons=true)
+<!-- <p align="center">
+  <imc src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi01&theme=radical&layout=compact"></img>
+  </p> -->
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=janvi01&label=Profile%20views&color=blueviolet&style=flat-square" alt="janvi01" /> </p>
+  <div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi01&theme=radical&layout=compact" alt="janvi01" /></p>
+  <br/>
+  <br/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=janvi01&theme=radical&show_icons=true" alt="janvi01" /></p>
+  </div>
