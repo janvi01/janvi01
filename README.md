@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 <!-- <p align="center">
   <imc src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi01&theme=radical&layout=compact"></img>
   </p> -->
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=janvi01&label=Profile%20views&color=blueviolet&style=flat-square" alt="janvi01" /> </p>
-  <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi01&theme=radical&layout=compact" alt="janvi01" /></p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=janvi01&label=Profile%20views&color=blueviolet&style=flat-square" alt="janvi01" /> </p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi01&theme=radical&layout=compact" alt="janvi01" />
   <br/>
-  <br/>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=janvi01&theme=radical&show_icons=true" alt="janvi01" /></p>
-  </div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=janvi01&theme=radical&show_icons=true" alt="janvi01" />
