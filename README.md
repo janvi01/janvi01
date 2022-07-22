@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there 👋 I am Janvi.</h1>
-<h3 align="center"> an aspiring developer 👩‍💻</h1>
+<h3 align="center"> Outreachy intern - <b>Mozilla Firefox</b></h3>
+<h3 align="center"> Checkout my blogs <a href="https://janvi01.hashnode.dev/">here</a>. </h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/janvibajo01" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
