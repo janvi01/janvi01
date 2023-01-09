@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Janvi.</h1>
-<h3 align="center"> Outreachy intern - <b>Mozilla</b></h3>
-<h3 align="center">A passionate Software developer from India.🚀</h3>
+<h3 align="center"> Outreachy intern - <b>Mozilla | Software developer 🚀</b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janvi01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="janvi01" /> </p>
 <p align="center"> <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/janvi01" alt="janvi01" /> </p>
