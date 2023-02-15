@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://janvi01.hashnode.dev/](https://janvi01.hashnode.dev/)
 
-- 💬 Ask me about **React, JavaScript, Open source practices**
+- 💬 Ask me about **React, JavaScript, C++, Open source practices**
 
 - 📫 How to reach me **janvibajo1@gmail.com**
 
