@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://twitter.com/janvibajo01" target="blank"><img src="https://img.shields.io/twitter/follow/janvibajo01?logo=twitter&style=for-the-badge" alt="janvibajo01" /></a> </p>
 
-- 🔭 I’m currently working on [Firefox Picture-in-Picture](https://www.mozilla.org/en-US/firefox/features/picture-in-picture/)
+- 🔭 I’m currently working on [Firefox Picture-in-Picture](https://www.mozilla.org/en-US/firefox/features/picture-in-picture/) and [SQL Editor](https://github.com/janvi01/sql-editor).
 
 - 📝 I regularly write articles on [https://janvi01.hashnode.dev/](https://janvi01.hashnode.dev/)
 
